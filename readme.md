@@ -37,7 +37,7 @@ https://gist.githubusercontent.com/maykbrito/0acdf4ce919838ffed50915a31fc5b23/ra
 ```js
 // 1. Variáveis
 // let estaChovendo = true
-// const meuNome = "Mayk"
+// const meuNome = "Matheus"
 
 // 2. Tipos de Dados
 // String
